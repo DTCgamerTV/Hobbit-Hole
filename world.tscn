@@ -17,5 +17,5 @@ layer_2/tile_data = PackedInt32Array(327676, 0, 1, 393212, 0, 1, 458749, 0, 1, 4
 position = Vector2(128, 99)
 zoom = Vector2(3, 3)
 
-[node name="CharacterBody2D" parent="." instance=ExtResource("2_141j1")]
+[node name="Player" parent="." instance=ExtResource("2_141j1")]
 position = Vector2(125, 102)
